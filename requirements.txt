@@ -1,0 +1,9 @@
+SQLAlchemy==1.4.41
+pyplot-themes==0.2.2
+matplotlib==3.5.3
+pillow==9.2.0
+pandas==1.5.0
+lxml==4.9.1
+progressbar==2.5
+seaborn==0.12.1
+tk==0.1.0
